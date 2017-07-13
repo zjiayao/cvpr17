@@ -2,9 +2,9 @@
 
 * Paper list fetched from [CVPapers](http://www.cvpapers.com/cvpr2017.html)
 
-## [Machine Learning 1](/Machine\ Learning\ 1)
+## [Machine Learning 1](./Machine%20Learning%201)
 
-### [Spotlight 1-1A](/Machine\ Learning\ 1/Spotlight\ 1-1A)
+### [Spotlight 1-1A](./"Machine Learning 1"/"Spotlight 1-1A")
 
 Exclusivity-Consistency Regularized Multi-View Subspace Clustering
 Xiaojie Guo, Xiaobo Wang, Zhen Lei, Changqing Zhang, Stan Z. Li
