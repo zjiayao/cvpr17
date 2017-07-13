@@ -7,21 +7,36 @@
 ### [Spotlight 1-1A](./Machine%20Learning%201/Spotlight%201-1A)
 
 Exclusivity-Consistency Regularized Multi-View Subspace Clustering
-Xiaojie Guo, Xiaobo Wang, Zhen Lei, Changqing Zhang, Stan Z. Li
+
+*Xiaojie Guo, Xiaobo Wang, Zhen Lei, Changqing Zhang, Stan Z. Li*
+
 Borrowing Treasures From the Wealthy: Deep Transfer Learning Through Selective Joint Fine-Tuning
-Weifeng Ge, Yizhou Yu
+
+*Weifeng Ge, Yizhou Yu*
+
 The More You Know: Using Knowledge Graphs for Image Classification
-Kenneth Marino, Ruslan Salakhutdinov, Abhinav Gupta
+
+*Kenneth Marino, Ruslan Salakhutdinov, Abhinav Gupta*
+
 Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs
-Martin Simonovsky, Nikos Komodakis
+
+*Martin Simonovsky, Nikos Komodakis*
+
 Convolutional Neural Network Architecture for Geometric Matching
-Ignacio Rocco, Relja ArandjeloviÄ‡, Josef Sivic
+
+*Ignacio Rocco, Relja ArandjeloviÄ‡, Josef Sivic*
+
 Deep Affordance-Grounded Sensorimotor Object Recognition
-Spyridon Thermos, Georgios Th. Papadopoulos, Petros Daras, Gerasimos Potamianos
+
+*Spyridon Thermos, Georgios Th. Papadopoulos, Petros Daras, Gerasimos Potamianos*
+
 Discovering Causal Signals in Images
-David Lopez-Paz, Robert Nishihara, Soumith Chintala, Bernhard SchÃ¶lkopf, Léon Bottou
+
+*David Lopez-Paz, Robert Nishihara, Soumith Chintala, Bernhard SchÃ¶lkopf, Léon Bottou*
+
 On Compressing Deep Models by Low Rank and Sparse Decomposition
-Xiyu Yu, Tongliang Liu, Xinchao Wang, Dacheng Tao
+
+*Xiyu Yu, Tongliang Liu, Xinchao Wang, Dacheng Tao*
 
 ### Oral 1-1A
 
