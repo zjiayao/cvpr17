@@ -56,7 +56,7 @@ Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Net
 
 *Christian Ledig, Lucas Theis, Ferenc HuszÃƒÂ¡r, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi*
 
-## 3D [Vision 1](./3D%20Vision%201)
+## [3D Vision 1](./3D%20Vision%201)
 
 ### [Spotlight 1-1B](./3D%20Vision%201/Spotlight%201-1B)
 
@@ -2678,7 +2678,7 @@ Learning Non-Lambertian Object Intrinsics Across ShapeNet Categories
 
 MCMLSD: A Dynamic Programming Approach to Line Segment Detection
 
-*Emilio J. AlmazÃ n, Ron Tal, Yiming Qian, James H. Elder*
+*Emilio J. Almazan, Ron Tal, Yiming Qian, James H. Elder*
 
 Contour-Constrained Superpixels for Image and Video Processing
 
