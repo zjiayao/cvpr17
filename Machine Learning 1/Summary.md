@@ -18,7 +18,7 @@ In this paper, we have proposed a novel multi-view subspace clustering model nam
 
 * Code
 
-[Available](https://github.com/ZYYSzj/ Selective-Joint-Fine-tuning)
+[GitHub](https://github.com/ZYYSzj/Selective-Joint-Fine-tuning)
 
 * Abstract
 
@@ -107,6 +107,7 @@ In this work, we propose a novel deep neural network PointNet that directly cons
 * Code/Demo
 
 [GitHub](https://github.com/LTS4/universal)
+
 [YouTube](https://www.youtube.com/watch?v=jhOu5yhe0rc&feature=youtu.be)
 
 * Abstract
