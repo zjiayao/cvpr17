@@ -1,6 +1,6 @@
 # CVPR '17 Paper Collection
 
-* Paper list fetched from [CVPapers](http://www.cvpapers.com/cvpr2017.html)
+*Paper list fetched from [CVPapers](http://www.cvpapers.com/cvpr2017.html)*
 
 ## [Machine Learning 1](./Machine%20Learning%201)
 
@@ -38,16 +38,23 @@ On Compressing Deep Models by Low Rank and Sparse Decomposition
 
 *Xiyu Yu, Tongliang Liu, Xinchao Wang, Dacheng Tao*
 
-### Oral 1-1A
+### [Oral 1-1](./Machine%20Learning%201/Oral%201-1)
 
 PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
-Charles R. Qi, Hao Su, Kaichun Mo, Leonidas J. Guibas
+
+*Charles R. Qi, Hao Su, Kaichun Mo, Leonidas J. Guibas*
+
 Universal Adversarial Perturbations
-Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Omar Fawzi, Pascal Frossard
+
+*Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Omar Fawzi, Pascal Frossard*
+
 Unsupervised Pixel-Level Domain Adaptation With Generative Adversarial Networks
-Konstantinos Bousmalis, Nathan Silberman, David Dohan, Dumitru Erhan, Dilip Krishnan
-Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (PDF, code)
-Christian Ledig, Lucas Theis, Ferenc HuszÃƒÂ¡r, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi
+
+*Konstantinos Bousmalis, Nathan Silberman, David Dohan, Dumitru Erhan, Dilip Krishnan*
+
+Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+
+*Christian Ledig, Lucas Theis, Ferenc HuszÃƒÂ¡r, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi*
 
 ## 3D Vision 1
 
