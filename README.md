@@ -2,6 +2,11 @@
 
 *Paper list fetched from [CVPapers](http://www.cvpapers.com/cvpr2017.html)*
 
+Usage:
+* Use ``wget -r -nH -nd -np -nc -R index.html* http://openaccess.thecvf.com/content_cvpr_2017/papers`` to retreive papers.
+* Run ``./proc.sh`` to catelogue papers.
+* Enjoy.
+
 ## [Machine Learning 1](./Machine%20Learning%201)
 
 ### [Spotlight 1-1A](./Machine%20Learning%201/Spotlight%201-1A)

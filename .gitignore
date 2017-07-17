@@ -1,4 +1,4 @@
 *.swp
 .DS_Store
-.pdf
+*.pdf
 proc_author.sh
