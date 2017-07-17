@@ -12,7 +12,7 @@ meta=1
 while read line
 do
     # meta: ignore until first "##"
-    if [[ meta = 1 && "${line:0:2}" != "##" ]]
+    if [[ $meta = 1 && "${line:0:2}" != "##" ]]
     then
 	continue
     fi
@@ -45,20 +45,28 @@ do
         # title
         else
 	   title=$line
-    	   keyword="${title%% *}"
-	   keyword="${keyword%%:}"
+	   line="${line//\'/}"
+	   line="${line//\//}"
+	   line="${line//:/_}"
+	   line="${line//[^[:alnum:]-]/ }"
+	   keys=($line)
+	   # use two keywords
+	   # delete possibly colons
+	   keyword=${keys[0]}_${keys[1]}
     	   continue
 
         fi
 
         path="./$folder/$subfolder"
         newname="[2017 $name] $title.pdf"
+	newname="${newname//\//}"
         file="$name"_"$keyword"*_CVPR_2017_paper.pdf
-        printf "$file\n"
         if ls ./$file 1> /dev/null 2>&1
         then
         	mkdir -p "$path"
-        	mv ./$file "$path/$newname"
+        	mv -vn ./$file "$path/$newname"
+	else
+	    printf "$file\n"
         fi
     fi
 done <README.md

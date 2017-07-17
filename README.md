@@ -8,7 +8,7 @@
 
 Exclusivity-Consistency Regularized Multi-View Subspace Clustering
 
-*Xiaojie Guo, Xiaobo Wang, Zhen Lei, Changqing Zhang, Stan Z. Li*
+*Xiaobo Wang, Xiaojie Guo, Zhen Lei, Changqing Zhang, Stan Z. Li*
 
 Borrowing Treasures From the Wealthy: Deep Transfer Learning Through Selective Joint Fine-Tuning
 
@@ -64,7 +64,7 @@ Context-Aware Captions From Context-Agnostic Supervision
 
 *Ramakrishna Vedantam, Samy Bengio, Kevin Murphy, Devi Parikh, Gal Chechik*
 
-Global Hypothesis Generation for 6D Object Pose Estimation (PDF)
+Global Hypothesis Generation for 6D Object Pose Estimation 
 
 *Frank Michel, Alexander Kirillov, Eric Brachmann, Alexander Krull, Stefan Gumhold, Bogdan Savchynskyy, Carsten Rother*
 
@@ -174,7 +174,7 @@ Face Normals â€œIn-The-Wildâ€ Using Fully Convolutional Networks
 
 A Non-Convex Variational Approach to Photometric Stereo Under Inaccurate Lighting
 
-*Yvain Quéau, Tao Wu, FranÃ§ois Lauze, Jean-Denis Durou, Daniel Cremers*
+*Yvain Queau, Tao Wu, FranÃ§ois Lauze, Jean-Denis Durou, Daniel Cremers*
 
 A Linear Extrinsic Calibration of Kaleidoscopic Imaging System From Single 3D Point
 
@@ -326,7 +326,7 @@ Additive Component Analysis
 
 Subspace Clustering via Variance Regularized Ridge Regression
 
-*Zhao Kang, Chong Peng, Qiang Cheng*
+*Chong Peng, Zhao Kang, Qiang Cheng*
 
 The Incremental Multiresolution Matrix Factorization Algorithm
 
@@ -358,7 +358,7 @@ Accurate Single Stage Detector Using Recurrent Rolling Convolution
 
 A Compact DNN: Approaching GoogLeNet-Level Accuracy of Classification and Domain Adaptation
 
-*Chunpeng Wu, Wei Wen, Tariq Afzal, Yongmei Zhang, Yiran Chen, Hai (Helen) Li*
+*Chunpeng Wu, Wei Wen, Tariq Afzal, Yongmei Zhang, Yiran Chen, Hai  Li*
 
 The Impact of Typicality for Informative Representative Selection
 
@@ -378,7 +378,7 @@ Intrinsic Grassmann Averages for Online Linear and Robust Subspace Learning
 
 Variational Bayesian Multiple Instance Learning With Gaussian Processes
 
-*Manuel HauÃŸmann, Fred A. Hamprecht, Melih Kandemir*
+*Manuel Haussmann, Fred A. Hamprecht, Melih Kandemir*
 
 Temporal Attention-Gated Model for Robust Sequence Classification
 
@@ -666,7 +666,7 @@ NID-SLAM: Robust Monocular SLAM Using Normalised Information Distance
 
 End-To-End Training of Hybrid CNN-CRF Models for Stereo
 
-*Patrick KnÃ¶belreiter, Christian Reinbacher, Alexander Shekhovtsov, Thomas Pock*
+*Patrick Knobelreiter, Christian Reinbacher, Alexander Shekhovtsov, Thomas Pock*
 
 Learning Shape Abstractions by Assembling Volumetric Primitives
 
@@ -682,7 +682,7 @@ Acquiring Axially-Symmetric Transparent Objects Using Single-View Transmission I
 
 Regressing Robust and Discriminative 3D Morphable Models With a Very Deep Neural Network
 
-*Anh Tuáº¥n Tráº§n, Tal Hassner, Iacopo Masi, Gérard Medioni*
+*Anh Tuan Tran, Tal Hassner, Iacopo Masi, Gérard Medioni*
 
 End-To-End 3D Face Reconstruction With Deep Neural Networks
 
@@ -716,7 +716,7 @@ Joint Registration and Representation Learning for Unconstrained Face Identifica
 
 One-Shot Metric Learning for Person Re-Identification
 
-*Slawomir BÄ…k, Peter Carr*
+*Slawomir Bak, Peter Carr*
 
 Generalized Rank Pooling for Activity Recognition
 
@@ -724,7 +724,7 @@ Generalized Rank Pooling for Activity Recognition
 
 Deep Representation Learning for Human Motion Prediction and Classification
 
-*Judith BÃ¼tepage, Michael J. Black, Danica Kragic, Hedvig KjellstrÃ¶m*
+*Judith Butepage, Michael J. Black, Danica Kragic, Hedvig KjellstrÃ¶m*
 
 Interspecies Knowledge Transfer for Facial Keypoint Detection
 
@@ -1044,7 +1044,7 @@ FastMask: Segment Multi-Scale Object Candidates in One Shot
 
 Reconstructing Transient Images From Single-Photon Sensors
 
-*Matthew O'Toole, Felix Heide, David B. Lindell, Kai Zang, Steven Diamond, Gordon Wetzstein*
+*Matthew OToole, Felix Heide, David B. Lindell, Kai Zang, Steven Diamond, Gordon Wetzstein*
 
 DeshadowNet: A Multi-Context Embedding Deep Network for Shadow Removal
 
@@ -1156,7 +1156,7 @@ Accurate Depth and Normal Maps From Occlusion-Aware Focal Stack Symmetry
 
 A Multi-View Stereo Benchmark With High-Resolution Images and Multi-Camera Videos
 
-*Thomas SchÃ¶ps, Johannes L. SchÃ¶nberger, Silvano Galliani, Torsten Sattler, Konrad Schindler, Marc Pollefeys, Andreas Geiger*
+*Thomas Schops, Johannes L. SchÃ¶nberger, Silvano Galliani, Torsten Sattler, Konrad Schindler, Marc Pollefeys, Andreas Geiger*
 
 Non-Contact Full Field Vibration Measurement Based on Phase-Shifting
 
@@ -1190,7 +1190,7 @@ BigHand2.2M Benchmark: Hand Pose Dataset and State of the Art Analysis
 
 DenseReg: Fully Convolutional Dense Shape Regression In-The-Wild
 
-*RÄ±za Alp GÃ¼ler, George Trigeorgis, Epameinondas Antonakos, Patrick Snape, Stefanos Zafeiriou, Iasonas Kokkinos*
+*Riza Alp Guler, George Trigeorgis, Epameinondas Antonakos, Patrick Snape, Stefanos Zafeiriou, Iasonas Kokkinos*
 
 Adaptive Class Preserving Representation for Image Classification
 
@@ -1246,7 +1246,7 @@ Optical Flow Estimation Using a Spatial Pyramid Network
 
 Deep Network Flow for Multi-Object Tracking
 
-*Manmohan Chandraker, Paul Vernaza, Wongun Choi, Samuel Schulter*
+*Samuel Schulter, Paul Vernaza, Wongun Choi, Manmohan Chandraker*
 
 ### Low- & Mid-Level Vision
 
@@ -1256,7 +1256,7 @@ Material Classification Using Frequency- and Depth-Dependent Time-Of-Flight Dist
 
 Benchmarking Denoising Algorithms With Real Photographs
 
-*Tobias PlÃ¶tz, Stefan Roth*
+*Tobias Plotz, Stefan Roth*
 
 A Unified Approach of Multi-Scale Deep and Hand-Crafted Features for Defocus Estimation
 
@@ -1426,7 +1426,7 @@ Top-Down Visual Saliency Guided by Captions
 
 Grassmannian Manifold Optimization Assisted Sparse Spectral Clustering
 
-*Junbin Gao, Qiong Wang, Hong Li*
+*Qiong Wang, Junbin Gao, Hong Li*
 
 ### Video Analytics
 
@@ -1728,7 +1728,7 @@ CLKN: Cascaded Lucas-Kanade Networks for Image Alignment
 
 Multi-Object Tracking With Quadruplet Convolutional Neural Networks
 
-*Mooyeol Baek, Jeany Son, Minsu Cho, Bohyung Han*
+*Jeany Son,Mooyeol Baek, Minsu Cho, Bohyung Han*
 
 ### Low- & Mid-Level Vision
 
@@ -1848,7 +1848,7 @@ Network Sketching: Exploiting Binary Structure in Deep CNNs
 
 Multi-Task Clustering of Human Actions by Sharing Information
 
-*Shizhe Hu, Xiaoqiang Yan, Yangdong Ye*
+*Xiaoqiang Yan, Shizhe Hu, Yangdong Ye*
 
 Soft-Margin Mixture of Regressions
 
@@ -1964,11 +1964,11 @@ Deep Self-Taught Learning for Weakly Supervised Object Localization
 
 Multi-Modal Mean-Fields via Cardinality-Based Clamping
 
-*Pierre Baqué, FranÃ§ois Fleuret, Pascal Fua*
+*Pierre Baque, FranÃ§ois Fleuret, Pascal Fua*
 
 Probabilistic Temporal Subspace Clustering
 
-*Vladimir Pavlovic, Behnam Gholami*
+*Behnam Gholami, Vladimir Pavlovic*
 
 Provable Self-Representation Based Outlier Detection in a Union of Subspaces
 
@@ -2048,7 +2048,7 @@ Look Closer to See Better: Recurrent Attention Convolutional Neural Network for 
 
 Annotating Object Instances With a Polygon-RNN
 
-*LluÃ­s CastrejÃ³n, Kaustav Kundu, Raquel Urtasun, Sanja Fidler*
+*LluÃ­s Castrejon, Kaustav Kundu, Raquel Urtasun, Sanja Fidler*
 
 Connecting Look and Feel: Associating the Visual and Tactile Properties of Physical Materials
 
@@ -2080,7 +2080,7 @@ Learning to Predict Stereo Reliability Enforcing Local Consistency of Confidence
 
 The Misty Three Point Algorithm for Relative Pose
 
-*Tobias Palmér, Kalle Ã…strÃ¶m, Jan-Michael Frahm*
+*Tobias Palmer, Kalle Ã…strÃ¶m, Jan-Michael Frahm*
 
 The Surfacing of Multiview 3D Drawings via Lofting and Occlusion Reasoning
 
@@ -2210,7 +2210,7 @@ The World of Fast Moving Objects
 
 Discriminative Correlation Filter With Channel and Spatial Reliability
 
-*Alan LukeÅ¾iÄ, TomÃ¡Å¡ VojÃ­Å™, Luka ÄŒehovin Zajc, JiÅ™Ã­ Matas, Matej Kristan*
+*Alan Lukezic, TomÃ¡Å¡ VojÃ­Å™, Luka ÄŒehovin Zajc, JiÅ™Ã­ Matas, Matej Kristan*
 
 ### Low- & Mid-Level Vision
 
@@ -2240,7 +2240,7 @@ Hardware-Efficient Guided Image Filtering for Multi-Label Problem
 
 Alternating Direction Graph Matching
 
-*D. KhuÃª LÃª-Huu, Nikos Paragios*
+*D. Khue Le-Huu, Nikos Paragios*
 
 Learning Discriminative and Transformation Covariant Local Feature Detectors
 
@@ -2252,9 +2252,9 @@ Correlational Gaussian Processes for Cross-Domain Visual Recognition
 
 *Chengjiang Long, Gang Hua*
 
-DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data
+DeLiGAN: Generative Adversarial Networks for Diverse and Limited Data
 
-*Swaminathan Gurumurthy (CMU), Ravi Kiran Sarvadevabhatla (Video Analytics Lab, Indian Institute of Science), R. Venkatesh Babu*
+*Swaminathan Gurumurthy , Ravi Kiran Sarvadevabhatla (Video Analytics Lab, Indian Institute of Science), R. Venkatesh Babu*
 
 Oriented Response Networks
 
@@ -2264,7 +2264,7 @@ Missing Modalities Imputation via Cascaded Residual Autoencoder
 
 *Luan Tran, Xiaoming Liu, Jiayu Zhou, Rong Jin*
 
-Efficient Optimization for Hierarchically-structured Interacting Segments (HINTS)
+Efficient Optimization for Hierarchically-structured Interacting Segments 
 
 *Hossam Isack, Olga Veksler, Ipek Oguz, Milan Sonka, Yuri Boykov*
 
@@ -2378,7 +2378,7 @@ Zero-Shot Recognition Using Dual Visual-Semantic Mapping Paths
 
 Neural Aggregation Network for Video Face Recognition
 
-*Jiaolong Yang (Microsoft Research), Peiran Ren (Microsoft Research), Dongqing Zhang (Microsoft Research), Dong Chen (Microsoft Research), Fang Wen (Microsoft Research), Hongdong Li (ANU), Gang Hua (Microsoft Research)*
+*Jiaolong Yang, Peiran Ren , Dongqing Zhang , Dong Chen , Fang Wen , Hongdong Li , Gang Hua *
 
 Relationship Proposal Networks
 
@@ -2402,7 +2402,7 @@ Incorporating Copying Mechanism in Image Captioning for Learning Novel Objects
 
 Beyond Instance-Level Image Retrieval: Leveraging Captions to Learn a Global Visual Representation for Semantic Retrieval
 
-*Diane Larlus, Albert Gordo*
+*Albert Gordo, Diane Larlus*
 
 MuCaLe-Net: Multi Categorical-Level Networks to Generate More Discriminating Features
 
@@ -2608,7 +2608,7 @@ AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human A
 
 Deep Structured Learning for Facial Action Unit Intensity Estimation
 
-*Robert Walecki, Ognjen (Oggi) Rudovic, Vladimir Pavlovic, BjÃ¶ern Schuller, Maja Pantic*
+*Robert Walecki, Ognjen  Rudovic, Vladimir Pavlovic, BjÃ¶ern Schuller, Maja Pantic*
 
 Simultaneous Facial Landmark Detection, Pose and Deformation Estimation Under Facial Occlusion
 
@@ -3078,9 +3078,9 @@ SphereFace: Deep Hypersphere Embedding for Face Recognition
 
 *Weiyang Liu, Yandong Wen, Zhiding Yu, Ming Li, Bhiksha Raj, Le Song*
 
-IRINA: Iris Recognition (Even) in Inaccurately Segmented Data
+IRINA: Iris Recognition  in Inaccurately Segmented Data
 
-*Hugo ProenÃ§a, JoÃ£o C. Neves*
+*Hugo Proenca, JoÃ£o C. Neves*
 
 Look Into Person: Self-Supervised Structure-Sensitive Learning and a New Benchmark for Human Parsing
 
@@ -3158,7 +3158,7 @@ Optical Flow in Mostly Rigid Scenes
 
 *Jonas Wulff, Laura Sevilla-Lara, Michael J. Black*
 
-Optical Flow Requires Multiple Strategies (but Only One Network)
+Optical Flow Requires Multiple Strategies 
 
 *Tal Schuster, Lior Wolf, David Gadot*
 
@@ -3178,7 +3178,7 @@ Fast Fourier Color Constancy
 
 Comparative Evaluation of Hand-Crafted and Learned Local Features
 
-*Johannes L. SchÃ¶nberger, Hans Hardmeier, Torsten Sattler, Marc Pollefeys*
+*Johannes L. Schonberger, Hans Hardmeier, Torsten Sattler, Marc Pollefeys*
 
 Learning Fully Convolutional Networks for Iterative Non-Blind Deconvolution
 
@@ -3228,7 +3228,7 @@ Collaborative Deep Reinforcement Learning for Joint Object Search
 
 Loss Max-Pooling for Semantic Image Segmentation
 
-*Samuel Rota BulÃ², Gerhard Neuhold, Peter Kontschieder*
+*Samuel Rota Bulo, Gerhard Neuhold, Peter Kontschieder*
 
 Deep View Morphing
 
@@ -3256,7 +3256,7 @@ Domain Adaptation by Mixture of Alignments of Second- or Higher-Order Scatter Te
 
 Deep Mixture of Linear Inverse Regressions Applied to Head-Pose Estimation
 
-*Stéphane Lathuilière, Rémi Juge, Pablo Mesejo, Rafael Muñoz-Salinas, Radu Horaud*
+*Stéphane Lathuiliere, Rémi Juge, Pablo Mesejo, Rafael Muñoz-Salinas, Radu Horaud*
 
 STD2P: RGBD Semantic Segmentation Using Spatio-Temporal Data-Driven Pooling
 
